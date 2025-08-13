@@ -18,3 +18,6 @@ whatap app
 <div id="bottom-ball"></div>
 <div id="right-ball"></div>
 </div>
+
+7. G
+8. H
